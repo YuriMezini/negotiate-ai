@@ -104,9 +104,10 @@ streamlit run app.py
 
 | Name | Role |
 |---|---|
+| **Jurgen Mezinaj** | Team Member |
 | **Sara Mezuri** | Team Member |
-| **Malek Zibri ** | Team Member |
-| **Marouene Addhoum ** | Team Member |
+| **Malek Zibri** | Team Member |
+| **Marouene Addhoum** | Team Member |
 
 ---
 
